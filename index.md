@@ -20,7 +20,7 @@ The 5 modules cover:
 * Module IV: Critical Thinking Skills and Multiple Literacies
 * Module V: Academic Honesty
 <br> 
-Use the navigation bar at the top of the page:
+<p>Use the navigation bar at the top of the page:<p/>
 <br>
 
 
