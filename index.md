@@ -23,7 +23,7 @@ This should be a familiar process. You engage in solving problems every day and 
 Part one of this series pertains to research questions and search strategies which occurs in step 1 of the research process - Pose a question.
 
 Please use the navigation bar at the top of the page:
-* **[Introduction](/modules/setup/getting-started/)** - Understand all objecticves of each module in this series
+* **[Course Objectives](/modules/setup/getting-started/)** - Understand all objectivess of each module in this series
 * **[Modules](/modules/content/markdown-and-media)** -  Navigate to each module in this series
 * **[Contact a Librarian](/modules/customize/favicon)** - Need Help? Submit an inquiry to an online librarian 
 
