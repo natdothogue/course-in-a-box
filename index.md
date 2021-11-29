@@ -21,11 +21,9 @@ The 5 modules cover:
 * Module V: Academic Honesty
 <br> 
 <p>Use the navigation bar at the top of the page:<p/>
-<br>
 
-
-* **[Course Objectives](/modules/setup/getting-started/)** - Understand all objectivess of each module in this series
+* **[Course Objectives](/modules/setup/getting-started/)** - Understand all objectives of each module in this series
 * **[Modules](/modules/content/markdown-and-media)** -  Navigate to each module in this series
 * **[Contact a Librarian](/modules/customize/favicon)** - Need Help? Submit an inquiry to an online librarian 
 
-Enjoy!
+<p>Enjoy!<p/>
