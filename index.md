@@ -22,8 +22,8 @@ The 5 modules cover:
 <br> 
 <p>Use the navigation bar at the top of the page:<p/>
 
-* **[Course Objectives](/modules/setup/getting-started/)** - Understand all objectives of each module in this series
-* **[Modules](/modules/content/markdown-and-media)** -  Navigate to each module in this series
-* **[Contact a Librarian](/modules/customize/favicon)** - Need Help? Submit an inquiry to an online librarian 
+* [Course Objectives](/modules/setup/getting-started/) - Understand all objectives of each module in this series
+* [Modules](/modules/content/markdown-and-media) -  Navigate to each module in this series
+* [Contact a Librarian](/modules/customize/favicon) - Need Help? Submit an inquiry to an online librarian 
 
 <p>Enjoy!<p/>
