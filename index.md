@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-Welcome!
+<h1>Welcome!</h1>
 <br> 
 
 <h2>Introduction</h2>
