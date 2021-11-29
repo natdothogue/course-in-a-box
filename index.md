@@ -3,10 +3,29 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+<p>Welcome to Module 1 of our Information Literacy Series - Research Questions and Search Strategies.
+
+<h2>Introduction</h2>
+
+
+Research involves the collection, organization, and analysis of information to increase our understanding of a topic or issue.
+
+At a general level, research has three steps: 
+
+
+
+1. Pose a question.  
+2. Collect data to answer the question. 
+3. Present an answer to the question. 
+
+This should be a familiar process. You engage in solving problems every day and you start with a question, collect some information, and then form an answer.
+
+Part one of this series pertains to research questions and search strategies which occurs in step 1 of the research process - Pose a question.
+
+Please use the navigation bar at the top of the page:
+* **[Introduction](/modules/setup/getting-started/)** - Understand all objecticves of each module in this series
+* **[Modules](/modules/content/markdown-and-media)** -  Navigate to each module in this series
+* **[Contact a Librarian](/modules/customize/favicon)** - Need Help? Submit an inquiry to an online librarian 
 
 <br> 
 
